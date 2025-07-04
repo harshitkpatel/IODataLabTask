@@ -82,7 +82,7 @@ ID,Title,Status,Department,Priority,Author,Created Date,Updated Date
 
 ## 👨‍💻 Author
 
-* Developed by \[Your Name] as part of a React Developer Assessment
+* Developed by Harshit as part of a React Developer Assessment
 
 ---
 
